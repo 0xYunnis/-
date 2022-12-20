@@ -1,6 +1,6 @@
 # 学习交流，不要作弊
 ### 这个东西可以理解为是一个支持协作（任何人都可以提交文件）没有任何限速的云盘。
-### 登陆以后点击code>donlaod>即可将所有文件打包下载，也可以直接点击上方的文件查看
+### 登陆以后点击code>download>即可将所有文件打包下载(或者点击：https://github.com/0xYunnis/-/archive/refs/heads/%E4%B8%BB%E5%88%86%E6%94%AF.zip），也可以直接点击上方的文件查看
 ### 可以将你写的任何东西，任何笔记，任何非隐私文件上传。点击 上方的Fork按钮就可以复制到自己账户下，上传完毕后点击pull requests就可以与主分支合并
 ## 建议使用前学习GitHub使用方法与技巧，强烈建议使用VScode进行提交,这里有个教学视频：https://www.bilibili.com/video/BV1KD4y1S7FL/?spm_id_from=333.337.search-card.all.click
 ## 在这里 你可以与同学友好的交流，分享文件与图片。
